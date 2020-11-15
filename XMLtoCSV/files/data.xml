@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<ArrayOfSequence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sequence>
+    <SourcePath>
+      <Point>
+        <X>261</X>
+        <Y>210</Y>
+      </Point>
+      <Point>
+        <X>210</X>
+        <Y>214</Y>
+      </Point>
+      <Point>
+        <X>261</X>
+        <Y>227</Y>
+      </Point>
+      <Point>
+        <X>261</X>
+        <Y>229</Y>
+      </Point>
+      <Point>
+        <X>261</X>
+        <Y>231</Y>
+      </Point>
+      <Point>
+        <X>261</X>
+        <Y>234</Y>
+      </Point>
+      <Point>
+        <X>261</X>
+        <Y>237</Y>
+      </Point>
+    </SourcePath>
+  </Sequence>
+</ArrayOfSequence>
